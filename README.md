@@ -39,3 +39,20 @@ mod operator find out the remainder
 (2 + 10) * (10 + 3)  = 156
 
 2 + 10 * 10 + 3 = 105
+
+
+NOTE YOU CAN USE JUPYTER NOTEBOOKS SHIFT + TAB  WHICH WILL OPEN UP INFORMATION FOR FUNCTIONS THAT HAVE ALREADY BEEN DEFINED.
+
+THERES ALSO DOCUMENTATION .
+
+https://docs.python.org/3/
+
+https://projecteuler.net/archives
+
+https://codingbat.com/python
+
+http://www.codeabbey.com/index/task_list
+
+https://www.reddit.com/r/dailyprogrammer/
+
+http://www.pythonchallenge.com/
