@@ -113,3 +113,69 @@ mylist = [1,2,3]
 mylist2 = ['a','b', 'c']
 
 for item in zip(mylist, mylist2):
+    print(item)
+
+output:
+(1, 'a')
+(2, 'b')
+(3, 'c')
+
+list(zip(mylist1,mylist2))
+output
+
+[(1, 'a'),(2, 'b'),(3, 'c')]
+
+
+---------------------
+check if an element is in a list (in)
+
+'x' in [1, 2, 3]  False
+'x' in ['x', 'y', z]   True
+'a' in 'apple'   True
+
+'mykey' in {'mykey':345}
+
+d = {'mykey':345}
+345 in d.values
+
+-----------------------------------
+
+min max
+
+mylist = [10,20,30,40]
+
+min(mylist)   10
+max(mylist)   40
+---------------
+
+
+from random import shuffle            --> so this means from the random library import the function shuffle
+
+mylist = [1,2,3,4,5,6,7]
+
+shuffle(mylist)
+
+mylist
+output: [7,4,6,3,1,2,5]
+
+
+from random import randint
+
+randint(0,100)    a random integer between 0 to 100
+
+
+-------------------
+
+
+user input
+
+result = input('Enter a number here: ')
+
+Now python will ask you to enter a number
+
+caveat python will accept the input as a string
+
+in order to transform
+
+float(result)
+int(result)

@@ -1,3 +1,5 @@
+official python DOCUMENTATION https://docs.python.org/3/
+
 # python_bootcamp_2020
 2020 complete python bootcamp: from zero to hero in python
 
@@ -11,6 +13,12 @@ undordered key value pairs                 dict     {"mykey":"value","name":"fra
 ordered immutable sequence of objects      tup      (10, "hello", 200.3)
 unordered collection of unique objects     set      {"a","b"}
 logical value                              bool     True or False
+
+
+variables usually lowecaes
+universal variables upper case
+snake_casing  for function name
+class call camelCasing
 
 python numbers
 
