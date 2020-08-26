@@ -18,7 +18,7 @@ logical value                              bool     True or False
 variables usually lowecaes
 universal variables upper case
 snake_casing  for function name
-class call CamelCasing
+class call camelCasing
 
 python numbers
 
